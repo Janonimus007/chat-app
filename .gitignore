@@ -1,6 +1,6 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# mira https://help.github.com/articles/ignoring-files/ para obtener mas informacion acerca de git ignore.
 
-# dependencies
+# dependencias
 /node_modules
 /.pnp
 .pnp.js
